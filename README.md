@@ -5,4 +5,4 @@
 ### John Keyser
 ### www.wondrium.com
 
-game = solution file for Lecture 13 "Game Design with Function"
+game = solution files for Lecture 13 "Game Design with Function"
